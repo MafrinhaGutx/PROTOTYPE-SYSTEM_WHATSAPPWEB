@@ -1,0 +1,28 @@
+{
+  "name": "customer-support-system",
+  "version": "1.0.0",
+  "description": "Sistema de apoio ao cliente com integração WhatsApp, monitoramento em tempo real e notificações por email",
+  "main": "server/index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm start",
+    "build": "cd client && npm run build",
+    "install-all": "npm install && cd server && npm install && cd ../client && npm install",
+    "start": "cd server && npm start"
+  },
+  "keywords": [
+    "customer-support",
+    "whatsapp",
+    "real-time",
+    "chat",
+    "notifications",
+    "nodejs",
+    "react"
+  ],
+  "author": "Junior Developer",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+} 
