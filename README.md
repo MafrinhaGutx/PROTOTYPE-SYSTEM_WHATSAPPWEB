@@ -8,7 +8,7 @@ Um sistema completo de suporte ao cliente com integração WhatsApp, monitoramen
 - **Chat em Tempo Real**: Comunicação instantânea com clientes
 - **Monitoramento**: Dashboard com estatísticas e métricas
 - **Notificações**: Sistema de alertas por email 24/7
-- **Interface Profissional**: Design humanizado, sem aparência de IA
+- **Interface Profissional**: Design humanizado
 
 ## 🛠️ Stack Tecnológica
 
@@ -229,5 +229,6 @@ Para dúvidas ou problemas:
 - Verifique os logs do servidor
 
 ---
+
 
 **Desenvolvido com ❤️ para portfólio de desenvolvedor júnior** 
